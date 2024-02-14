@@ -1,2 +1,3 @@
 # Quantitative-Analysis-Calculator
-A calculator designed for calculating quantitative analysis problems
+You can use this calculator to solve quantative analysis problems, currently only works with the elements C, O, H and N
+
